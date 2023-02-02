@@ -1,6 +1,3 @@
 node_modules/
 dist/
-yarn.lock
-package-lock.json
-.fake
-.ionide
+.parcel-cache
